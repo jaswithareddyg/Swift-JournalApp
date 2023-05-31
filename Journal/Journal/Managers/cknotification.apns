@@ -1,0 +1,12 @@
+{
+    "Simulator Target Bundle": "jasuchicago.Journal",
+    "aps": {
+        "alert": {
+            "body": "This is a test",
+            "title": "Push Notification Test",
+            "subtitle": "Test push notification"
+        },
+    "badge" : 5,
+    "content-available" : 1
+    }
+}
