@@ -53,4 +53,9 @@ The app focuses on core features, allowing users to create, edit, and delete jou
 - The commit is not able to take the YOLOv3.mlmodel even through LFS.
 - Model taken from [Apple's Machine Learning Models](https://developer.apple.com/machine-learning/models/).
 
+## Additional Information
+
+- This project was developed using Xcode, Objective-C and Swift.
+- For issues or questions, contact [(Jas) Jaswitha](mailto:jaswithareddyguntaka@gmail.com).
+
 Feel free to explore, contribute, and make the journaling experience even better! Happy journaling! 📔✨
